@@ -1,0 +1,11 @@
+name: mit.RabbitSword
+version: '${project.version}'
+main: zero.nyc.mit.RabbitSword
+api-version: '1.16'
+authors: [0nyc]
+description: Rabbit sword from anarchia.gg
+commands:
+  rabbitsword:
+permissions:
+  rabbitsword:
+    command:

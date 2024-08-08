@@ -1,0 +1,15 @@
+name: "&4Króliczy miecz"
+lore:
+  - "----------------------------------------"
+  - "&dPo uderzeniu przeciwnika tym mieczem "
+  - "&dNie będzie mógł skakać przez 5s"
+  - "----------------------------------------"
+
+jump-cooldown-in-seconds: 5
+
+#0.1 = 10%   0.2 = 20%   0.3 = 30%   ...   1.0 = 100%
+chance-for-jump-cooldown: 0.2
+
+##### MESSAGES #####
+error-message: "&cNie możesz nałożyć tego na ten miecz"
+hit-alert: "Zostałeś uderzony przez króliczy miecz, nie możesz skakać przez 5s"
